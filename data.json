@@ -1,0 +1,6 @@
+{ "index" : { "_index" : "newspaper", "_type" : "article"} }
+{"name":"Bonjour", "body":"Hello" }
+{ "index" : { "_index" : "newspaper", "_type" : "article"} }
+{"name":"Au revoir", "body":"Bye" }
+{ "index" : { "_index" : "newspaper", "_type" : "article"} }
+{"name":"Hello", "body":"Je suis anglais" }
